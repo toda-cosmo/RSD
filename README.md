@@ -1,5 +1,5 @@
 #Read me
 
-Now writting...
+Now writing...
 
 When you want to change the setting, please modify "setting.ini".
